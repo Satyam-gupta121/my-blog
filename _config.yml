@@ -1,1 +1,5 @@
+theme: "minimal-mistakes-jekyll"
+title: "My Awesome Blog"
+description: "A simple blog powered by GitHub Pages and Jekyll"
+url: "https://<satyam-gupta121>.github.io/<my-blog>"
 
